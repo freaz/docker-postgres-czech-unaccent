@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t postgres-czech .
+docker build -t postgres-czech-unaccent .
